@@ -14,7 +14,7 @@ class Application
       resp.status = 404
 
     end
-    binding.pry
+    # binding.pry
 
     # binding.pry
     #
