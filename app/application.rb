@@ -12,7 +12,7 @@ class Application
     else
       resp.write "Route not found"
      #   resp.status = 404
-      
+
     end
     binding.pry
 
