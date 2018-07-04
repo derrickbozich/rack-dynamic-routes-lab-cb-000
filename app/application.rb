@@ -11,7 +11,7 @@ class Application
       resp.write "Right Path"
     else
       resp.write "Route not found"
-     #   resp.status = 404
+      resp.status = 404
 
     end
     binding.pry
